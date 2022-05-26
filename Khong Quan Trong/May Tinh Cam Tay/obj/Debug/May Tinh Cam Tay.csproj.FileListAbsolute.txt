@@ -1,0 +1,20 @@
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\May Tinh Cam Tay\obj\Debug\May_Tinh_Cam_Tay.Form1.resources
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\May Tinh Cam Tay\obj\Debug\May_Tinh_Cam_Tay.Properties.Resources.resources
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\May Tinh Cam Tay\obj\Debug\May Tinh Cam Tay.csproj.GenerateResource.cache
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\May Tinh Cam Tay\obj\Debug\May Tinh Cam Tay.csproj.CoreCompileInputs.cache
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\May Tinh Cam Tay\bin\Debug\May Tinh Cam Tay.exe.config
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\May Tinh Cam Tay\bin\Debug\May Tinh Cam Tay.exe
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\May Tinh Cam Tay\bin\Debug\May Tinh Cam Tay.pdb
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\May Tinh Cam Tay\obj\Debug\May Tinh Cam Tay.exe
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\May Tinh Cam Tay\obj\Debug\May Tinh Cam Tay.pdb
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\May Tinh Cam Tay\obj\Debug\May Tinh Cam Tay.csprojAssemblyReference.cache
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\Khong Quan Trong\May Tinh Cam Tay\bin\Debug\May Tinh Cam Tay.exe.config
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\Khong Quan Trong\May Tinh Cam Tay\bin\Debug\May Tinh Cam Tay.exe
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\Khong Quan Trong\May Tinh Cam Tay\bin\Debug\May Tinh Cam Tay.pdb
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\Khong Quan Trong\May Tinh Cam Tay\obj\Debug\May Tinh Cam Tay.csprojAssemblyReference.cache
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\Khong Quan Trong\May Tinh Cam Tay\obj\Debug\May_Tinh_Cam_Tay.Form1.resources
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\Khong Quan Trong\May Tinh Cam Tay\obj\Debug\May_Tinh_Cam_Tay.Properties.Resources.resources
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\Khong Quan Trong\May Tinh Cam Tay\obj\Debug\May Tinh Cam Tay.csproj.GenerateResource.cache
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\Khong Quan Trong\May Tinh Cam Tay\obj\Debug\May Tinh Cam Tay.csproj.CoreCompileInputs.cache
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\Khong Quan Trong\May Tinh Cam Tay\obj\Debug\May Tinh Cam Tay.exe
+C:\Duy Anh\CNTT\CNTT ÐHTL\Nam 2 Ki 2\lap trinh windows\May Tinh Cam Tay\Khong Quan Trong\May Tinh Cam Tay\obj\Debug\May Tinh Cam Tay.pdb

@@ -1,0 +1,29 @@
+Trong thư mục "May Tinh Cam Tay" có 3 file:
++ "Khong Quan Trong"
++ "May Tinh Cho Thach"
++ "ẤN VÀO ĐÂY - HƯỚNG DẪN DÙNG" (file cậu đang đọc đó hihi)
+
+1. Folder "Khong Quan Trong" chứa mã nguồn và hoạt động của app,
+không cần thiết cho nên cậu không cần mở vào xem (có vào xem cũng
+không hiểu gì đâu mà =)))) ). Nhưng tuyệt đối KHÔNG ĐƯỢC XÓA folder này!
+Nếu xóa thì app máy tính sẽ không chạy được (do app đọc dữ liệu từ nó).
+
+2. File "May Tinh Cho Thach" chính là cái file cậu có thể dùng để tính toán.
+Nó sẽ gồm các nút bấm và phần tính toán. Phần tính toán có 2 dòng:
++ Dòng 1: [       ] [ ] 
++ Dòng 2: [           ]
+Dòng 1 gồm ô để cậu nhập số và dấu
+Dòng 2 sẽ hiển thị kết quả cho cậu
+
+Điểm hay của app này là tớ đã thiết kế cho cậu để nó tính được cả số âm
+và số thập phân =))) giỏi chưa?
+
+3. File hướng dẫn dùng
+Chính là file cậu đang đọc. Tớ chỉ hướng dẫn cậu cách dùng thôi.
+Mọi vấn đề có thể liên hệ tớ để giải quyết =))
+
+À có ảnh nền máy tính là ảnh cậu. Không biết sau khi chuyển file cho cậu ảnh
+có bị mất không. Nếu mất thì máy sẽ hoạt động như bth nhưng ko có ảnh nền thui.
+Nếu không có ảnh báo lại để tớ sửa nhé =))
+
+Chúc cậu bấm máy tính thành công =))))
